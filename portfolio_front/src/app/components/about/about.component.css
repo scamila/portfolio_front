@@ -1,0 +1,22 @@
+@media (min-width:576px){
+#foto-perfil{
+    position: absolute;
+    width: 5%;
+    border-radius: 100%;
+    background-color: blanchedalmond;
+    left: 3%;
+    top:600px;
+}
+
+}
+
+@media (max-width:575px){
+    #foto-perfil{
+        position: absolute;
+        width: 25%;
+        border-radius: 100%;
+        background-color: blanchedalmond;
+        left: 30%;
+        top:633px;
+    }
+}
